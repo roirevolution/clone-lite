@@ -22,5 +22,14 @@
   },
   "pre-commit": [
     "test"
-  ]
+  ],
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roirevolution/clone-lite.git"
+  },
+  "bugs": {
+    "url": "https://github.com/roirevolution/clone-lite/issues"
+  },
+  "homepage": "https://github.com/roirevolution/clone-lite#readme"
 }
