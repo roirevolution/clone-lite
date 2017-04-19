@@ -9,6 +9,8 @@ This clones deep, circular javascript objects. The following are supported and t
  * null
  * undefined
 
+It works in all modern browsers, and IE 9 and higher.
+
 ### Install
 
 ```sh
