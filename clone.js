@@ -1,3 +1,9 @@
+/**
+ * @param {*} thing
+ * @param {Array=} thingValues
+ * @param {Array=} cloneValues
+ * @return {*}
+ */
 module.exports = function clone(thing, thingValues, cloneValues) {
   if (typeof thing != 'object' || thing == null) {
     return thing;
